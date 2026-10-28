@@ -1,83 +1,107 @@
 
 # 👗 Fashion Store Data Analysis using Microsoft Excel
 
-### 📊 Annual Sales Analysis | Customer Insights | Sales Channel Performance
-
-An interactive Excel dashboard developed to analyse a fashion store's annual sales performance for 2023. This project focuses on understanding customer purchasing behaviour, identifying high-performing states, analysing age-group contributions, and evaluating sales channel performance to support business growth in 2024.
-
----
-
 ## 📌 Project Overview
 
-The Fashion Store Data Analysis project aims to help the business understand its customers and improve sales through data-driven insights.
+Developed an interactive Excel dashboard to analyze the fashion store's annual sales performance for 2023. The dashboard provides insights into monthly sales, order trends, customer demographics, state-wise sales, order status, and sales channel performance.
 
-Using Microsoft Excel, I analysed the store's sales data and developed an interactive dashboard to track customer demographics, state-wise sales performance, age-group contributions, and sales channels.
-
-The dashboard provides a consolidated view of annual performance and helps identify important customer segments and sales opportunities.
-
----
+The analysis helps identify key customer segments, high-performing states, and leading online sales channels to support business planning and sales growth.
 
 ## 🎯 Project Objectives
 
-- Analyse the annual sales performance for 2023.
-- Understand purchasing behaviour by gender.
-- Identify the top-performing states.
-- Analyse sales contribution across different age groups.
-- Compare sales performance across online shopping channels.
-- Develop an interactive Excel dashboard for business reporting.
-- Generate insights to support sales growth in 2024.
+- Analyze monthly sales and order performance.
+- Compare sales contribution by gender.
+- Identify the top-performing states by sales.
+- Analyze customer age groups and gender distribution.
+- Compare orders across online sales channels.
+- Understand order status, including delivered, cancelled, returned, and refunded orders.
+- Generate insights to support sales planning for 2024.
 
----
+## 📊 Key Questions Answered
 
-## 📊 Key Analysis Areas
+- How do monthly sales and order volumes change throughout the year?
+- Which gender contributes the largest share of sales?
+- Which states generate the highest sales?
+- Which age group contributes the most to orders?
+- Which online sales channels receive the highest number of orders?
+- What percentage of orders are delivered, cancelled, returned, or refunded?
+- How do customer demographics help identify target segments?
 
-### 👥 Customer Gender Analysis
-- Compare purchasing behaviour between women and men.
-- Identify the gender segment contributing the most to sales.
-- Understand customer distribution by gender.
+## 💡 Key Insights & Findings
 
-### 📍 State-Wise Sales Analysis
-- Identify the top-performing states.
-- Compare sales contributions across geographical regions.
-- Highlight states with strong customer demand.
+### 1. Monthly Sales Performance
 
-### 🎂 Age-Group Analysis
-- Analyse sales contribution across customer age groups.
-- Identify the highest-contributing age segment.
-- Understand customer demographics to support targeted marketing.
+- March shows the highest visible monthly sales and order performance in the dashboard.
+- Sales decline after March, with a further decrease visible during September to November.
+- The dashboard allows monthly comparisons to identify seasonal trends.
 
-### 🛍️ Sales Channel Analysis
-- Compare sales across Amazon, Flipkart, Myntra, and other available channels.
-- Identify the major contributors to total sales.
-- Understand the importance of online shopping channels.
+### 2. Sales by Gender
 
----
+- Women account for approximately **64%** of sales.
+- Men account for approximately **36%** of sales.
 
-## 🔍 Key Insights & Conclusions
+**Key finding:** Women contribute the larger share of sales, making them an important customer segment for marketing and product planning.
 
-- **Gender contribution:** Women account for approximately 65% of purchases, according to the project analysis.
-- **Top-performing states:** Maharashtra, Karnataka, and Uttar Pradesh together contribute approximately 35%.
-- **Highest-contributing age group:** Adults aged 30–49 account for approximately 50% of the contribution.
-- **Leading sales channels:** Amazon, Flipkart, and Myntra together contribute approximately 80%.
+### 3. Sales by Age Group and Gender
 
-*Note: These percentages are based on the supplied project description. Confirm whether each percentage represents sales, orders, or customers before publishing.*
----
+The dashboard shows the following customer distribution:
+
+| Age Group | Men | Women |
+|---|---:|---:|
+| Adult | 19.35% | 43.57% |
+| Senior | 5.91% | 13.70% |
+| Teenager | 5.31% | 12.15% |
+
+**Key finding:** Adult women represent the largest displayed segment, at 43.57%.
+
+### 4. Top 10 States by Sales
+
+| State | Sales |
+|---|---:|
+| Maharashtra | 2.99M |
+| Karnataka | 2.65M |
+| Uttar Pradesh | 2.10M |
+| Telangana | 1.71M |
+| Tamil Nadu | 1.68M |
+| Delhi | 1.27M |
+| Kerala | 1.01M |
+| West Bengal | 0.92M |
+| Andhra Pradesh | 0.92M |
+| Haryana | 0.81M |
+
+**Key finding:** Maharashtra records the highest sales, followed by Karnataka and Uttar Pradesh.
+
+### 5. Orders by Sales Channel
+
+| Sales Channel | Number of Orders |
+|---|---:|
+| Amazon | 11,016 |
+| Myntra | 7,254 |
+| Flipkart | 6,703 |
+| Ajio | 1,931 |
+| Nalli | 1,484 |
+| Meesho | 1,398 |
+| Others | 1,261 |
+
+**Key finding:** Amazon has the highest order count among the displayed sales channels, followed by Myntra and Flipkart.
+
+### 6. Order Status Analysis
+
+- Delivered orders account for approximately **92%**.
+- Cancelled orders account for approximately **3%**.
+- Returned orders account for approximately **3%**.
+- Refunded orders account for approximately **2%**.
+
+**Key finding:** Most orders are delivered successfully, while cancelled, returned, and refunded orders represent opportunities for further operational analysis.
+
+## ⭐ Project Summary
+
+The Fashion Store Data Analysis dashboard uses Microsoft Excel to analyze monthly sales, customer demographics, state-wise performance, online sales channels, and order status. The findings help identify important customer segments and high-performing markets to support informed sales and marketing decisions.
 
 ## 👨‍💻 Author
 
 **Aravind K**  
-Data Analyst | MIS Reporting | Power BI Developer
+Data Analyst | MIS Reporting | Power BI Developer  
+Bengaluru, India
 
-📍 Bengaluru, India
-
-- 📧 Email: [aravindaat656@gmail.com](mailto:aravindaat656@gmail.com)
-
----
-
-## ⭐ Project Summary
-
-The Fashion Store Data Analysis project demonstrates how Microsoft Excel can transform annual sales data into meaningful business insights. By analysing customer demographics, geographical performance, and sales channels, the dashboard helps highlight key customer segments and opportunities for sales growth.
-
-This project showcases practical skills in Excel-based data analysis, dashboard development, and business reporting.
-
-⭐ Feel free to explore the repository!
+- Email: [aravindaat656@gmail.com](mailto:aravindaat656@gmail.com)
